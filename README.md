@@ -1,2 +1,2 @@
 This repository should be empty
-version 1
+version 2, in GitHub
